@@ -1,0 +1,19 @@
+/* odd element style */
+.odd {
+    background-color: rgb(204, 149, 149);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.fSize24 {
+    font-size: 24px;
+}
+
+#num2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: rgb(75, 180, 50);
+    font-weight: bold;
+}
